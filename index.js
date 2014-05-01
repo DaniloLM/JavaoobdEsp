@@ -1,5 +1,9 @@
 function doClick(e) {
-    alert($.label.text);
+    alert('Hi!!  ');
 }
 
 $.index.open();
+
+
+
+          IIJ   B R U N O
