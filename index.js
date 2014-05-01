@@ -3,7 +3,3 @@ function doClick(e) {
 }
 
 $.index.open();
-
-
-
-          IIJ   B R U N O
